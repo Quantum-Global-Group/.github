@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="qgg-lockup-white.svg#gh-dark-mode-only" alt="Quantum Global Group" width="520" />
-  <img src="qgg-lockup-black.svg#gh-light-mode-only" alt="Quantum Global Group" width="520" />
+  <img src="qgg-wordmark-dark.png#gh-dark-mode-only" alt="Quantum Global Group" width="560" />
+  <img src="qgg-wordmark-light.png#gh-light-mode-only" alt="Quantum Global Group" width="560" />
 </p>
 
 <p align="center"><strong>QUANTUM GLOBAL GROUP</strong></p>
